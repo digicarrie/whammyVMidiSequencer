@@ -18,5 +18,4 @@ A MIDI sequencer made for the Digitech Whammy V, made with a Raspberry Pico and 
 - Seqence start btn: GP7
 - MIDI tx: GP8
 - MIDI rx (unused but defined): GP9
-
-- The second half of every button goes to the 5v Vbus of the Pico
+The second half of every button goes to the 5v Vbus of the Pico
