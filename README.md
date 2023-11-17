@@ -8,15 +8,15 @@ A MIDI sequencer made for the Digitech Whammy V, made with a Raspberry Pico and 
 - Beat length averaging over 4 taps
 
 # Wiring
-OLED sda: GP0
-OLED scl: GP1
-Mode left btn: GP2
-Mode right btn: GP3
-Subdivison left btn: GP4
-Subdivision right btn: GP5
-Tap Tempo btn: GP6
-Seqence start btn: GP7
-MIDI tx: GP8
-MIDI rx (unused but defined): GP9
+- OLED sda: GP0
+- OLED scl: GP1
+- Mode left btn: GP2
+- Mode right btn: GP3
+- Subdivison left btn: GP4
+- Subdivision right btn: GP5
+- Tap Tempo btn: GP6
+- Seqence start btn: GP7
+- MIDI tx: GP8
+- MIDI rx (unused but defined): GP9
 
-The second half of every button goes to the 5v Vbus of the Pico
+- The second half of every button goes to the 5v Vbus of the Pico
